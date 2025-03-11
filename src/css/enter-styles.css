@@ -19,7 +19,7 @@
   transition: border-color 500ms ease-in-out;
 }
 .form-input:hover {
-  border-color: #000;
+  border-color: #2e2f42;
 }
 
 .form-input:focus {
